@@ -1,5 +1,5 @@
 import React from "react";
-import "./container.css";
+import "./Container.css";
 
 const Container = (props) => <main className="container">{props.children}</main>;
 

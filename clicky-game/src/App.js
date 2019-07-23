@@ -1,16 +1,15 @@
 import React from 'react';
-// import logo from './logo.svg';
-import Header from './components/Header/header.js';
-import Footer from './components/Footer/Footer.js';
+import Game from "./components/Game"
 
-function App() {
-  return (
-    <div className="App">
-      <Header/>
-      <Footer/>
-        
-    </div>
-  );
-}
+const App = () => <Game/>;
 
 export default App;
+
+
+
+
+
+
+
+
+

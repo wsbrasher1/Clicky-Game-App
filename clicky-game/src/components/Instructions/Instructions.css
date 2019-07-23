@@ -1,0 +1,17 @@
+.jumbo {
+    margin-top: 80px; 
+}
+
+.jumbotron {
+    box-shadow: 0 2px 5px 0 darkslategray;
+    font-family: 'Patua One', cursive;
+    font-size: 1.3em;
+    color: red;
+    font-weight: bold;
+    /* background-image: url("../../logos/phono.png") */
+    
+}
+
+.instructions {
+    text-align: center;
+}

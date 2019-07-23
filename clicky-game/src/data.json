@@ -1,0 +1,79 @@
+
+    [
+        {
+          "id": 1,
+          "image": "assets/images/AbbeyRoad.png",
+          "clicked": false
+        },
+        {
+          "id": 2,
+          "image": "assets/images/Aladdin-Sane.png",
+          "clicked": false
+        },
+        {
+          "id": 3,
+          "image": "assets/images/Beck-Odelay.png",
+          "clicked": false
+        },
+        {
+          "id": 4,
+          "image": "assets/images/masterofpuppets_lg.png",
+          "clicked": false
+        },
+        {
+          "id": 5,
+          "image": "assets/images/Green-Day-Dookie.png",
+          "clicked": false
+        },
+        {
+          "id": 6,
+          "image": "assets/images/Pink-Floyd-Dark-Side-Of-The-Moon.png",
+          "clicked": false
+        },
+        {
+          "id": 7,
+          "image": "assets/images/Nirvana-Nevermind.png",
+          "clicked": false
+        },
+        {
+          "id": 8,
+          "image": "assets/images/Fleetwood-Mac-Rumours-.png",
+          "clicked": false
+        },
+        {
+          "id": 9,
+          "image": "assets/images/Licensed-to-ill.png",
+          "clicked": false
+        },
+        {
+          "id": 10,
+          "image": "assets/images/Sticky-fingers.png",
+          "clicked": false
+        },
+        {
+          "id": 11,
+          "image": "assets/images/theramones.png",
+          "clicked": false
+        },
+        {
+          "id": 12,
+          "image": "assets/images/Rush.png",
+          "clicked": false
+        },
+        {
+          "id": 13,
+          "image": "assets/images/moving-pictures.png",
+          "clicked": false
+        },
+        {
+          "id": 14,
+          "image": "assets/images/NWA-Straight-Outta-Compton.png",
+          "clicked": false
+        },
+        {
+          "id": 15,
+          "image": "assets/images/Joshua-Tree.png",
+          "clicked": false
+        }
+      ]
+    
